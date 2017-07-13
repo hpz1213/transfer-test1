@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.Socket;
 
-public class SimpleFileClient {
+public class client {
 
   public final static int SOCKET_PORT = 13267;      // you may change this
   public final static String SERVER = "192.168.1.102";  // localhost

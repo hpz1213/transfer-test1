@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class SimpleFileServer {
+public class server {
 
   public final static int SOCKET_PORT = 13267;  // you may change this
   public final static String FILE_TO_SEND = "/Users/PeizeHe/transfer-test1/test.txt";  // you may change this
