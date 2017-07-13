@@ -7,7 +7,7 @@ import java.net.Socket;
 public class client {
 
   public final static int SOCKET_PORT = 13267;      // you may change this
-  public final static String SERVER = "192.168.1.102";  // localhost
+  public final static String SERVER = "192.168.1.105";  // localhost
   public final static String
        FILE_TO_RECEIVED = "/Users/PeizeHe/transfer-test1/test.txt";  // you may change this, I give a
                                                             // different name because i don't want to
